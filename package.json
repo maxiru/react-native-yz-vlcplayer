@@ -1,6 +1,6 @@
 {
   "name": "@maxiru/react-native-yz-vlcplayer",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "git+https://github.com/xuyuanzhou/react-native-yz-vlcplayer.git"
   },
   "publishConfig": {
-      "registry": "https://nexus.simis.ai/repository/npm-private/"
+    "registry": "https://nexus.simis.ai/repository/npm-private/"
   },
   "license": "MIT"
 }
